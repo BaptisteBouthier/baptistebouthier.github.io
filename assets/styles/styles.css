@@ -50,7 +50,7 @@ transform: translate(-50%, -50%);
 .btnShare {margin: 0 auto; text-align: center;}
 .btnShare div {margin: 5px; font-size: 1.5em; display: inline-block; cursor: pointer;}
 .logo {width: 200px; margin: 0 auto;}
-.logo img {width: 100%;}
+.logo img {width: 100%; cursor: pointer;}
 .twitterBB {width: 50px; margin: 0 auto;}
 .twitterBB img {width: 100%;}
 .menu {position: absolute; top: 0; left: 0; width: 0; height: 100%; font-family: 'arial'; letter-spacing: .08em; background: #222; color: #fff; overflow: hidden;}
